@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/jayden-teo-470246143/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:contact@jaydenteo.com)
 
-I’m a software engineer at Accenture, working across the stack. I care about the design as much as the build, and enjoy turning complicated problems into straightforward solutions.
+I’m a software engineer at Accenture, working across the stack. I care about the design as much as the build, and enjoy turning complex problems into straightforward solutions.
 
 I work with React, React Native, ASP.NET, and Azure. Outside of work, I’m building Tempo Trainer and [Fortus](https://apps.apple.com/us/app/fortus/id6661023977).
 
